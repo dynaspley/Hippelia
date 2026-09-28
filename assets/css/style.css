@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Séquoria — litière en carton pour chevaux
+   Hippelia — litière en carton pour chevaux
    Direction artistique : « serre botanique sur parchemin »
    Crème en toile de fond, des pièces vert forêt réchauffées de brun,
    le vert vif réservé à l'action.
@@ -16,7 +16,7 @@
   --color-lime-pulse: #26d862;
   --color-peacock-teal: #0e634f;
 
-  /* Palette Séquoria : un vert forêt éclairci, réchauffé par des bruns bois et kraft. */
+  /* Palette Hippelia : un vert forêt éclairci, réchauffé par des bruns bois et kraft. */
   --color-forest: #2f5a40;
   --color-moss: #4f8059;
   --color-bark: #7a5536;
@@ -873,7 +873,7 @@ main {
   margin: 0 auto clamp(32px, 4vw, 52px);
 }
 
-/* ---------- 8. Séquoria en bref ---------- */
+/* ---------- 8. Hippelia en bref ---------- */
 .manifesto { padding-top: clamp(56px, 6vw, 88px); }
 .js .fw { opacity: .14; }
 
@@ -1736,7 +1736,7 @@ main {
   text-decoration: none;
 }
 
-/* « Séquoria » en signature, sous le slogan. */
+/* « Hippelia » en signature, sous le slogan. */
 .footer__brand {
   overflow: hidden;
   padding-block: .06em .22em;

@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Séquoria — animations & interactions
+   Hippelia — animations & interactions
    JavaScript natif, sans dépendance. Tout est désactivé proprement si
    l'utilisateur préfère réduire les animations.
    ========================================================================== */
@@ -559,7 +559,7 @@
 
     toggle.addEventListener('click', () => setOpen(!open));
 
-    // « Séquoria » et « Haut de page » ramènent à l'accueil. L'ancre #top seule
+    // « Hippelia » et « Haut de page » ramènent à l'accueil. L'ancre #top seule
     // ne suffit pas : le hero est collant, le navigateur le croit déjà affiché.
     $$('a[href="#top"]').forEach((link) => {
       link.addEventListener('click', (event) => {

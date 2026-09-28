@@ -1,6 +1,6 @@
-# Séquoria — site vitrine
+# Hippelia — site vitrine
 
-Site animé pour Séquoria, litière en copeaux de carton pour chevaux et petits animaux (NAC).
+Site animé pour Hippelia, litière en copeaux de carton pour chevaux et petits animaux (NAC).
 HTML, CSS et JavaScript natifs : aucune dépendance, aucune étape de build.
 
 ## Lancer en local
@@ -32,7 +32,7 @@ Chaque page vit dans son propre dossier : les adresses restent courtes (`/contac
 assets/
   css/style.css          styles communs à toutes les pages
   js/main.js             animations, menu, estimateur, formulaire
-  img/photos/            photos Séquoria (JPEG, et AVIF quand disponible)
+  img/photos/            photos Hippelia (JPEG, et AVIF quand disponible)
   img/illustrations/     visuels de la section « La matière »
   img/icons/             favicon et icônes pour téléphones
   img/og-image.jpg       image affichée lors d’un partage sur les réseaux sociaux
