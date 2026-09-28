@@ -594,7 +594,7 @@
   }
 
   /* Estimateur de quantités (page « Litière chevaux »). Mêmes repères que la
-     FAQ : 6 à 8 balles par box à la mise en place, puis 1 à 2 par semaine. */
+     FAQ : 6 à 8 sacs par box à la mise en place, puis 1 à 2 par semaine. */
   function initEstimator() {
     const estimator = $('[data-estimator]');
     if (!estimator) return;
